@@ -2,7 +2,7 @@
 
 This project analyzes Airbnb listing prices across European cities and builds a regression model to estimate `price_total` from practical pre-listing variables.
 
-The goal is not only to get the lowest possible error, but to build a model that is realistic, interpretable, and defensible for a data science portfolio. For that reason, the final modeling pipeline avoids variables that would not be known before publishing a listing, such as review scores.
+The goal is not only to get the lowest possible error, but to build a model that is realistic and interpretable for business decisions . For that reason, the final modeling pipeline avoids variables that would not be known before publishing a listing, such as review scores.
 
 ## Project Structure
 
