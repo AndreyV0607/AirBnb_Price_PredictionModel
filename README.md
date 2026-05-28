@@ -167,21 +167,6 @@ Main conclusions:
 
 The RMSE is still relatively high because Airbnb pricing is influenced by factors not included in the dataset, such as amenities, photos, seasonality, local events, minimum nights, cancellation policy, and listing quality.
 
-## How To Run
-
-From the project root:
-
-```bash
-python src/train_model.py
-```
-
-This will:
-
-- Load the raw data.
-- Build the processed dataset.
-- Train and evaluate the models.
-- Save the best model to `models/best_model.pkl`.
-- Save project images to `images/`.
 
 ## Main Artifacts
 
